@@ -7,36 +7,30 @@ html,body {
   font-family: 'Regular Script', sans-serif;
 }
 
-.pane_top_left {
+.pane {
   width: 400px!important;
   height: 400px;
-  border: 4px dashed red;
-  border-right-width: 2px;
-  border-bottom-width: 2px;
+  border: 8px solid hsl(348, 86%, 43%);
+}
+
+.pane_top_left {
+  border-right-width: 4px;
+  border-bottom-width: 4px;
 }
 
 .pane_top_right{
-  width: 400px!important;
-  height: 400px;
-  border: 4px dashed red;
-  border-left-width: 2px;
-  border-bottom-width: 2px;
+  border-left-width: 4px;
+  border-bottom-width: 4px;
 }
 
 .pane_bottom_left {
-  width: 400px!important;
-  height: 400px;
-  border: 4px dashed red;
-  border-right-width: 2px;
-  border-top-width: 2px;
+  border-right-width: 4px;
+  border-top-width: 4px;
 }
 
 .pane_bottom_right {
-  width: 400px!important;
-  height: 400px;
-  border: 4px dashed red;
-  border-left-width: 2px;
-  border-top-width: 2px;
+  border-left-width: 4px;
+  border-top-width: 4px;
 }
 
 .font_sample_wrapper {
