@@ -8,45 +8,45 @@ html,body {
 }
 
 .pane_top_left {
-  width: 300px!important;
-  height: 300px;
-  border: 2px dashed red;
-  border-right-width: 1px;
-  border-bottom-width: 1px;
+  width: 400px!important;
+  height: 400px;
+  border: 4px dashed red;
+  border-right-width: 2px;
+  border-bottom-width: 2px;
 }
 
 .pane_top_right{
-  width: 300px!important;
-  height: 300px;
-  border: 2px dashed red;
-  border-left-width: 1px;
-  border-bottom-width: 1px;
+  width: 400px!important;
+  height: 400px;
+  border: 4px dashed red;
+  border-left-width: 2px;
+  border-bottom-width: 2px;
 }
 
 .pane_bottom_left {
-  width: 300px!important;
-  height: 300px;
-  border: 2px dashed red;
-  border-right-width: 1px;
-  border-top-width: 1px;
+  width: 400px!important;
+  height: 400px;
+  border: 4px dashed red;
+  border-right-width: 2px;
+  border-top-width: 2px;
 }
 
 .pane_bottom_right {
-  width: 300px!important;
-  height: 300px;
-  border: 2px dashed red;
-  border-left-width: 1px;
-  border-top-width: 1px;
+  width: 400px!important;
+  height: 400px;
+  border: 4px dashed red;
+  border-left-width: 2px;
+  border-top-width: 2px;
 }
 
 .font_sample_wrapper {
-  margin-top: calc(-600px - 0.75rem);
+  margin-top: calc(-800px - 0.75rem);
 }
 
 .font_sample {
-  width: 600px!important;
-  height: 600px;
+  width: 800px!important;
+  height: 800px;
   text-align: center;
-  font-size: 500px;
-  line-height: 600px;
+  font-size: 700px;
+  line-height: 800px;
 }
