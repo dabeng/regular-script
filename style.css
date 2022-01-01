@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Regular Script';
+  src: url('正楷字体.TTF');
+}
+
+html,body {
+  font-family: 'Regular Script', sans-serif;
+  padding: 0;
+  margin: 0;
+}
