@@ -10,7 +10,7 @@ html,body {
 .pane {
   width: 400px!important;
   height: 400px;
-  border: 8px solid hsl(348, 86%, 43%);
+  border: 8px dashed hsl(348, 100%, 61%);
 }
 
 .pane_top_left {
